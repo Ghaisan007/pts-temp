@@ -1,5 +1,5 @@
 # UlasBuku: Project Tugas Kelompok A04 PBP
-- Link Repository: [Click](https://github.com/yps-a04/proyekTengahSemester.git)
+- Link Repository: ...
 - Link *Website* Proyek UTS: (soon)
 
 # Anggota Kelompok
